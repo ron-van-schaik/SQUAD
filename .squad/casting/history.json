@@ -1,0 +1,25 @@
+{
+  "assignment_cast_snapshots": {
+    "41346f31-9336-46e8-ada8-a45071f95d2f": {
+      "agents": [
+        "lead-intake-coordinator",
+        "cloud-process-analyst",
+        "service-delivery-analyst",
+        "evidence-audit-specialist",
+        "technical-operations-challenger",
+        "data-automation-engineer",
+        "quality-reviewer-scribe"
+      ],
+      "universe": "descriptive",
+      "created_at": "2026-11-02T17:00:21.249+01:00"
+    }
+  },
+  "universe_usage_history": [
+    {
+      "universe": "descriptive",
+      "used_at": "2026-11-02T17:00:21.249+01:00"
+    }
+  ],
+  "transaction_id": "debbebfe-aed7-4272-9f03-0a394d6e9fc4",
+  "registry_revision": 1
+}

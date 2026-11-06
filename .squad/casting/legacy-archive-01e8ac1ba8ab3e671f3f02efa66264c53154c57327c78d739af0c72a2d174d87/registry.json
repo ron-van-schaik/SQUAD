@@ -1,0 +1,60 @@
+{
+  "agents": {
+    "lead-intake-coordinator": {
+      "persistent_name": "Lead & Intake Coordinator",
+      "universe": "descriptive",
+      "created_at": "2026-11-02T17:00:21.249+01:00",
+      "legacy_named": false,
+      "status": "active",
+      "role": "Lead & Intake Coordinator"
+    },
+    "cloud-process-analyst": {
+      "persistent_name": "Cloud Process Analyst",
+      "universe": "descriptive",
+      "created_at": "2026-11-02T17:00:21.249+01:00",
+      "legacy_named": false,
+      "status": "active",
+      "role": "Cloud Process Analyst"
+    },
+    "service-delivery-analyst": {
+      "persistent_name": "Service Delivery Analyst",
+      "universe": "descriptive",
+      "created_at": "2026-11-02T17:00:21.249+01:00",
+      "legacy_named": false,
+      "status": "active",
+      "role": "Service Delivery Analyst"
+    },
+    "evidence-audit-specialist": {
+      "persistent_name": "Evidence & Audit Specialist",
+      "universe": "descriptive",
+      "created_at": "2026-11-02T17:00:21.249+01:00",
+      "legacy_named": false,
+      "status": "active",
+      "role": "Evidence & Audit Specialist"
+    },
+    "technical-operations-challenger": {
+      "persistent_name": "Technical Operations Challenger",
+      "universe": "descriptive",
+      "created_at": "2026-11-02T17:00:21.249+01:00",
+      "legacy_named": false,
+      "status": "active",
+      "role": "Technical Operations Challenger"
+    },
+    "data-automation-engineer": {
+      "persistent_name": "Data & Automation Engineer",
+      "universe": "descriptive",
+      "created_at": "2026-11-02T17:00:21.249+01:00",
+      "legacy_named": false,
+      "status": "active",
+      "role": "Data & Automation Engineer"
+    },
+    "quality-reviewer-scribe": {
+      "persistent_name": "Quality Reviewer & Scribe",
+      "universe": "descriptive",
+      "created_at": "2026-11-02T17:00:21.249+01:00",
+      "legacy_named": false,
+      "status": "active",
+      "role": "Quality Reviewer & Scribe"
+    }
+  }
+}
